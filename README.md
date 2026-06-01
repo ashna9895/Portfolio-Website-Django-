@@ -1,6 +1,6 @@
 # Portfolio Website
 
-## 📌 Student Details
+## 📌 Intern Details
 
 * **Intern ID:** CITS2134
 * **Full Name:** Ashna Anand
