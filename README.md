@@ -39,17 +39,12 @@ The website is designed to provide visitors with a quick overview of the develop
 ✔ Django Framework Integration
 
 ---
-
-
-## 📂 Projects Included
-
-* 📝 To-Do List Application
-* 💰 Expense Tracker
-* 🌦️ Weather App
-* 🌐 Personal Portfolio Website
-
+🛠️ Technologies Used
+Python
+Django
+HTML5
+CSS3
 ---
-
 ## 🚀 How to Run
 
 ### Install Django
