@@ -79,9 +79,6 @@ http://127.0.0.1:8000/
 
 ## 📸 Screenshot
 
-Add your portfolio website screenshot below:
-
-```md
 ![Portfolio Website](Screenshot%202026-06-01%20212037.png)
 ```
 
