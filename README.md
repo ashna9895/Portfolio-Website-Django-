@@ -82,7 +82,7 @@ http://127.0.0.1:8000/
 Add your portfolio website screenshot below:
 
 ```md
-![Portfolio Website](Screenshot 2026-06-01 212037.png)
+![Portfolio Website](Screenshot%202026-06-01%20212037.png)
 ```
 
 ---
