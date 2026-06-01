@@ -1,4 +1,4 @@
-# Personal Portfolio Website
+# Portfolio Website
 
 ## 📌 Student Details
 
@@ -39,12 +39,16 @@ The website is designed to provide visitors with a quick overview of the develop
 ✔ Django Framework Integration
 
 ---
-🛠️ Technologies Used
-Python
-Django
-HTML5
-CSS3
+
+## 🛠️ Technologies Used
+
+* Python
+* Django
+* HTML5
+* CSS3
+
 ---
+
 ## 🚀 How to Run
 
 ### Install Django
@@ -82,6 +86,7 @@ Add your portfolio website screenshot below:
 ```
 
 ---
+
 
 ## 📄 Documentation
 
