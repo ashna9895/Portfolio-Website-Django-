@@ -40,14 +40,6 @@ The website is designed to provide visitors with a quick overview of the develop
 
 ---
 
-## 🛠️ Technologies Used
-
-* Python
-* Django
-* HTML5
-* CSS3
-
----
 
 ## 📂 Projects Included
 
@@ -93,9 +85,6 @@ Add your portfolio website screenshot below:
 ```md
 ![Portfolio Website](screenshot.png)
 ```
-
----
-
 
 ---
 
