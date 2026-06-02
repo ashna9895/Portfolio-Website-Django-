@@ -81,10 +81,6 @@ http://127.0.0.1:8000/
 
 ![Portfolio Website](Screenshot%202026-06-01%20212037.png)
 ```
-
----
-
-
 ## 📄 Documentation
 
 This project was developed to demonstrate Django web development skills, HTML/CSS design, URL routing, template rendering, and portfolio presentation techniques.
